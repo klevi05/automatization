@@ -11,3 +11,20 @@
 [1203/222111.521:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir1896_957094714\Crashpad\attachments\d3bb2c27-176d-4731-8114-c20ab0c2766b: The system cannot find the path specified. (0x3)
 [1203/222457.347:ERROR:process_info.cc(359)] UncheckedAllocate
 [1203/222457.385:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir6032_48419072\Crashpad\attachments\4307d120-b176-410f-92e0-2938bf5f730e: The system cannot find the path specified. (0x3)
+[1203/225047.833:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/225047.858:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir10152_930482197\Crashpad\attachments\e95846a8-698c-496b-886e-03a6792618b9: The system cannot find the path specified. (0x3)
+[1203/225051.793:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231205.322:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir5600_1991123328\Crashpad\attachments\4254bebf-87c6-4819-9545-a465f86cb162: The system cannot find the path specified. (0x3)
+[1203/231209.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231210.494:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231400.371:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231400.447:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir7916_1372461788\Crashpad\attachments\0baaef70-1144-434a-904c-42d68e9193ce: The system cannot find the path specified. (0x3)
+[1203/231409.758:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231423.259:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231840.958:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231840.990:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir4412_1621251190\Crashpad\attachments\957d187d-2c65-4287-958d-92150dccf70f: The system cannot find the path specified. (0x3)
+[1203/231844.907:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231844.936:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231929.716:ERROR:process_info.cc(359)] UncheckedAllocate
+[1203/231929.748:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\inade\AppData\Local\Temp\scoped_dir1084_1135787738\Crashpad\attachments\d9367594-b24c-4507-b789-7d14812e7d8d: The system cannot find the path specified. (0x3)
+[1203/231932.909:ERROR:process_info.cc(359)] UncheckedAllocate
