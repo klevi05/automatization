@@ -14,7 +14,7 @@ class GIT:
 
     def Login(self):
         chrome_options = Options()
-        chrome_options.headless = False
+        chrome_options.headless = True
         driver = webdriver.Chrome('./chromedriver', options=chrome_options)
         driver.get("https://www.github.com/login")
         driver.maximize_window()
