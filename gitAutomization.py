@@ -32,7 +32,6 @@ class GIT:
         sleep(2)
         driver.find_element_by_name('repository[name]').send_keys(self.repository_name)
         sleep(2)
-        driver.find_element_by_id('repository_visibility_private').click()
         driver.find_element_by_id('repository_auto_init').click()
         sleep(1)
         driver.find_element_by_xpath('//*[@id="new_repository"]/div[4]/button').click()
